@@ -1,0 +1,6 @@
+{
+  "name": "AutoPOS",
+  "description": "Сверхбыстрая система учета и продаж для автомагазинов с терминалом, умным поиском, 3 складами, контролем долгов, возвратами и дашбордом. Поддерживает ПК и смартфоны.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
